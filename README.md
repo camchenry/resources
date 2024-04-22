@@ -3,6 +3,7 @@
 ## Engineering
 
 - ["Simple Made Easy" - Rich Hickey](https://www.youtube.com/watch?v=SxdOUGdseq4)
+- [The Design of Everyday APIs - Lynn Root](https://www.roguelynn.com/talks/everyday-apis/)
 
 ### Career
 
