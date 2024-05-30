@@ -13,3 +13,4 @@
 ## Leadership
 
 - [Leadership requires risk - Will Larson](https://lethain.com/leadership-requires-risk/)
+- [Unexpected Anti-Patterns for Engineering Leaders - Will Larson](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
