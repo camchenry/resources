@@ -15,3 +15,4 @@
 - [Leadership requires risk - Will Larson](https://lethain.com/leadership-requires-risk/)
 - [Unexpected Anti-Patterns for Engineering Leaders - Will Larson](https://review.firstround.com/unexpected-anti-patterns-for-engineering-leaders-lessons-from-stripe-uber-carta/)
 - [Deming's Wisdom for Staff+ Engineers: A Modern Take on Timeless Principles - Annie Vella](https://www.youtube.com/watch?v=-QTI5U5TRbQ)
+- [What's a senior engineer's job? - Julia Evans](https://jvns.ca/blog/senior-engineer/) 
