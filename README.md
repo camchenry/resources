@@ -10,6 +10,10 @@
 - [Don't Call Yourself a Programmer - Patrick McKenzie](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
 - [Publishing your work increases your luck - Aaron Francis](https://github.com/readme/guides/publishing-your-work)
 
+### Performance
+
+- [Practical Data Oriented Design - Andrew Kelley](https://www.youtube.com/watch?v=IroPQ150F6c)
+
 ## Leadership
 
 - [Leadership requires risk - Will Larson](https://lethain.com/leadership-requires-risk/)
