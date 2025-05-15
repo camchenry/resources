@@ -14,6 +14,11 @@
 
 - [Practical Data Oriented Design - Andrew Kelley](https://www.youtube.com/watch?v=IroPQ150F6c)
 
+### TypeScript / Type Systems
+
+- [Let's Make a Generic Inference Algorithm - Ryan Cavanaugh](https://gitnation.com/contents/lets-make-a-generic-inference-algorithm)
+- [TypeScript Type System - Anders Hejlsberg](https://www.youtube.com/watch?v=PKeG33UnhDI)
+
 ## Leadership
 
 - [Leadership requires risk - Will Larson](https://lethain.com/leadership-requires-risk/)
